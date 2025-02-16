@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define wedding details
-BRIDE="Alice"
-GROOM="Bob"
+BRIDE="krook"
+GROOM="krack"
 DATE="Saturday, June 15, 2025"
 TIME="5:00 PM"
 VENUE="Rosewood Banquet Hall, 123 Wedding Lane, New York, NY"
